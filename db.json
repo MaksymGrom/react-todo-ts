@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Todo 1",
+      "important": false,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Todo 2",
+      "important": true,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Todo 3",
+      "important": false,
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Todo 4",
+      "important": true,
+      "completed": true
+    }
+  ]
+}
